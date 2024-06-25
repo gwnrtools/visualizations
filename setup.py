@@ -9,7 +9,7 @@ import subprocess
 from os import environ, path
 from pathlib import Path
 
-NAME = "gwvisualisations"
+NAME = "visualizations"
 VERSION = "v0.0.1"
 
 
