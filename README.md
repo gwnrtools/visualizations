@@ -23,9 +23,9 @@ Spin-weighted spherical harmonics generalize the concept of spherical harmonics 
 
 The spin-weighted spherical harmonics are derived by applying spin-raising or spin-lowering operators to the standard spherical harmonics:
 
-$$
+$
 _sY_{\ell m}(\theta, \phi) = \sqrt{\frac{(2\ell+1)}{4\pi}} D^\ell_{m, -s}(\phi, \theta, 0),
-$$
+$
 
 where $D^\ell_{m, -s}$ are the Wigner $D$-functions, describing rotations in quantum mechanics.
 
@@ -37,9 +37,9 @@ Gravitational waves are ripples in spacetime caused by massive, accelerating obj
 #### Decomposition of Gravitational Waves
 Gravitational wave signals are often expanded into spin-weighted spherical harmonic modes:
 
-$$
+$
 h(t, \theta, \phi) = \sum_{\ell=2}^\infty \sum_{m=-\ell}^\ell h_{\ell m}(t) \, _{-2}Y_{\ell m}(\theta, \phi),
-$$
+$
 
 where $h_{\ell m}(t)$ are the mode amplitudes, encoding the time-dependent information of the wave. This decomposition separates angular and temporal components, making it easier to analyze and visualize.
 
