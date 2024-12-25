@@ -1,3 +1,4 @@
+
 # Gravitational Wave Modes and Spherical Harmonics
 
 ## Overview
@@ -83,3 +84,5 @@ Spherical harmonics and spin-weighted spherical harmonics are essential for visu
 - [Visualization of Gravitational Radiation from Binary Black Holes (ResearchGate)](https://www.researchgate.net/publication/376198772_Visualization_of_Gravitational_Radiation_from_Binary_Black_Holes)
 - [Visualising Higher-Order Gravitational Radiation Modes in Binary Black Hole Spacetimes (ResearchGate)](https://www.researchgate.net/publication/378241608_Visualising_Higher_Order_Gravitational_Radiation_Modes_in_Binary_Black_Hole_Spacetimes)
 
+---
+The above information is documented in [vis_readme.pdf](https://github.com/user-attachments/files/18247007/vis_readme.pdf)
