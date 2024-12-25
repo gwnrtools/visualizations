@@ -4,9 +4,9 @@
 
 ### Spherical Harmonics (\(Y_{\ell m}(\theta, \phi)\))
 Spherical harmonics are solutions to the angular part of Laplace's equation in spherical coordinates. They are functions of two angles, \(\theta\) (colatitude) and \(\phi\) (longitude), expressed as:
-$$
+\[
 Y_{\ell m}(\theta, \phi) = \sqrt{\frac{(2\ell+1)}{4\pi} \frac{(\ell-m)!}{(\ell+m)!}} P_{\ell}^m(\cos\theta) e^{im\phi}
-$$
+/]
 where:
 - \(\ell\): Degree, determining the overall scale of variation.
 - \(m\): Order, representing azimuthal variations.
