@@ -19,7 +19,7 @@ These functions form an orthonormal basis for functions defined on the surface o
 
 ---
 
-### Spin-Weighted Spherical Harmonics ($_sY_{\ell m}(\theta, \phi)$)
+### Spin-Weighted Spherical Harmonics ($Y^{s}_{\ell m}(\theta, \phi)$)
 Spin-weighted spherical harmonics generalize the concept of spherical harmonics to describe fields with intrinsic spin, such as the polarization of light or the gravitational wave strain. These functions incorporate a spin-weight $s$, which represents how the field transforms under rotations.
 
 The spin-weighted spherical harmonics are derived by applying spin-raising or spin-lowering operators to the standard spherical harmonics:
