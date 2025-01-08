@@ -25,7 +25,7 @@ Spin-weighted spherical harmonics generalize the concept of spherical harmonics 
 The spin-weighted spherical harmonics are derived by applying spin-raising or spin-lowering operators to the standard spherical harmonics:
 
 $$
-_sY_{\ell m}(\theta, \phi) = \sqrt{\frac{(2\ell+1)}{4\pi}} D^\ell_{m, -s}(\phi, \theta, 0),
+s_Y_{\ell m}(\theta, \phi) = \sqrt{\frac{(2\ell+1)}{4\pi}} D^\ell_{m, -s}(\phi, \theta, 0),
 $$
 
 where $D^\ell_{m, -s}$ are the Wigner $D$-functions, describing rotations in quantum mechanics.
@@ -46,12 +46,6 @@ where $h_{\ell m}(t)$ are the mode amplitudes, encoding the time-dependent infor
 
 ---
 
-### Visualization of Gravitational Waves
-- **Angular Dependence**: Spin-weighted spherical harmonics naturally represent gravitational wave strain across angles.
-- **Higher-Order Modes (HOM)**: Significant in systems like asymmetric binary mergers, these modes reveal the complexity of source dynamics.
-- **3D Representations**: Visualizing strain \(h(t, \theta, \phi)\) on a sphere provides insights into wave propagation.
-
----
 
 ## Higher-Order Modes (HOM) and Their Importance
 
@@ -59,18 +53,6 @@ HOM of gravitational waves contribute beyond the dominant quadrupole (\(\ell=2, 
 - **Enhanced sensitivity** to source properties, such as mass ratio, spin orientations, and orbital eccentricities.
 - **Deeper insights** into binary black hole merger dynamics.
 - **Improved parameter estimation** and detectability of distant sources.
-
-### Visualization Importance
-Visualizing HOM allows:
-- Exploration of angular and frequency distributions of gravitational radiation.
-- Insights into relativistic beaming and asymmetric radiation patterns.
-- Support for mission design (e.g., LISA) and future observatory preparations.
-
-### Applications
-1. **Source Characterization**: Identifies mass ratios, spins, and eccentricities.
-2. **Waveform Modeling**: Crucial for data analysis templates used by detectors like LIGO and Virgo.
-3. **Astrophysical Insights**: Enhances understanding of precession and asymmetries.
-4. **Public Outreach**: Makes gravitational wave physics accessible and intuitive.
 
 ---
 
