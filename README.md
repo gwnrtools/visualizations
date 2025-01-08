@@ -25,7 +25,7 @@ Spin-weighted spherical harmonics generalize the concept of spherical harmonics 
 The spin-weighted spherical harmonics are derived by applying spin-raising or spin-lowering operators to the standard spherical harmonics:
 
 $$
-s_Y_{\ell m}(\theta, \phi) = \sqrt{\frac{(2\ell+1)}{4\pi}} D^\ell_{m, -s}(\phi, \theta, 0),
+Y_{s\ell m}(\theta, \phi) = \sqrt{\frac{(2\ell+1)}{4\pi}} D^\ell_{m, -s}(\phi, \theta, 0),
 $$
 
 where $D^\ell_{m, -s}$ are the Wigner $D$-functions, describing rotations in quantum mechanics.
