@@ -5,7 +5,8 @@ This project is focused on visualizing:
 2. **Spin-Weighted Spherical Harmonics (SWSH)**
 3. **Gravitational Wave (GW) Modes**
 
-These visualizations are aimed at providing intuitive and detailed representations of various modes and harmonics relevant to gravitational wave astrophysics.
+This toolkit intends to create a user-friendly environment for visualizing the aforementioned by providing intuitive and detailed representations of various modes and harmonics crucial to gravitational wave astrophysics.
+
 
 ## Acknowledgments
 
