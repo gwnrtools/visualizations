@@ -1,6 +1,3 @@
-
-# Gravitational Wave Mode Visualization Toolkit
-
 ## Overview
 
 This project is focused on visualizing:
