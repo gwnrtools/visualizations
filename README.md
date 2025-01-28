@@ -11,9 +11,9 @@ This toolkit intends to create a user-friendly environment for visualizing the a
 ## Acknowledgments
 
 This work has been made possible with the support of **ICTS-TIFR**, under the **Long-Term Visiting Student Program**, mentored by:
+- **Dr. Vaishak Prasad**
 - **Prof. Prayush Kumar**
 - **Prof. Parameswaran Ajith**
-- **Dr. Vaishak Prasad**
 
 ## Tools and Usage
 
